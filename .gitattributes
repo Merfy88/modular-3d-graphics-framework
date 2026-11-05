@@ -1,0 +1,12 @@
+*.obj binary
+*.mtl binary
+*.fbx binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.bmp binary
+*.bin binary
+*.dat binary
+*.zip binary
+*.rar binary

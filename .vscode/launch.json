@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "调试当前Python文件",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "externalTerminal",
+            "justMyCode": true
+        }
+    ],
+    "noDebugConfigurations": [
+        {
+            "name": "无调试运行当前文件",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "externalTerminal",
+            "justMyCode": true,
+            "noDebug": true
+        }
+    ]
+}

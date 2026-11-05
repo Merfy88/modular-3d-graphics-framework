@@ -1,0 +1,15 @@
+﻿# Python编译缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# IDE缓存
+.idea/
+#.vscode/
+# 日志、临时文件
+*.log
+temp.py
+
+# 3D Viewer Framework
+3d_viewer_framework/__pycache__/
+merge_3d_viewer_framework.txt
